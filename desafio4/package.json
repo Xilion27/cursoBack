@@ -1,14 +1,10 @@
 {
-  "dependencies": {
-    "express": "^4.18.1",
-    "moment": "^2.29.3",
-    "nodemon": "^2.0.16"
-  },
-  "name": "cursoback",
+  "name": "desafio4",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "",
+  "main": "app.js",
   "scripts": {
-    "start": "node ./desafio4/app.js",
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,6 +16,5 @@
   "bugs": {
     "url": "https://github.com/Xilion27/cursoBack/issues"
   },
-  "homepage": "https://github.com/Xilion27/cursoBack#readme",
-  "description": ""
+  "homepage": "https://github.com/Xilion27/cursoBack#readme"
 }
