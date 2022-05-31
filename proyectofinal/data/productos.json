@@ -1,0 +1,32 @@
+[
+    {
+      "title": "Vaso",
+      "price": "890",
+      "thumbnail": "https://cdn2.iconfinder.com/data/icons/spring-30/30/Ice_Tea-256.png",
+      "id": 1
+    },
+    {
+      "title": "Celular",
+      "price": "1200",
+      "thumbnail": "https://cdn3.iconfinder.com/data/icons/geest-women-kit/128/bag_icons-06-256.png",
+      "id": 2
+    },
+    {
+      "title": "Lentes",
+      "price": "3298",
+      "thumbnail": "https://cdn3.iconfinder.com/data/icons/geek-3/24/Deal_With_It_Glasses_pixel_geek_mame-128.png",
+      "id": 3
+    },
+    {
+      "title": "Billetera",
+      "price": "9078",
+      "thumbnail": "https://cdn2.iconfinder.com/data/icons/round-varieties/60/Rounded_-_High_Ultra_Colour11_-_Wallet-256.png",
+      "id": 4
+    },
+    {
+      "title": "Escuadra",
+      "price": "460",
+      "thumbnail": "https://cdn3.iconfinder.com/data/icons/design-106/100/triangle-ruler-design-graphic-tools-wooden-triangle-squad-ruler-drawing-drafting-256.png",
+      "id": 5
+    }
+  ]
